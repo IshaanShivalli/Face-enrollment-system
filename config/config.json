@@ -1,0 +1,16 @@
+{
+	"language": "english-us",
+
+	"dataset_path": "dataset",
+
+	"class": "PROJECT",
+
+	"n_face_detection": 30,
+	"face_count": 30,
+	"db_path": "database/enroll.json",
+
+	"encodings_path": "output/encodings.pickle",
+	"recognizer_path": "output/recognizer.pickle",
+	"le_path": "output/le.pickle",
+	"detection_method": "hog"
+}
